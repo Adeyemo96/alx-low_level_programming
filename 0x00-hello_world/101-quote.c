@@ -1,4 +1,3 @@
-
 #include <unistd.h> 
 /**
 * main - prints a standard error
